@@ -1,0 +1,14 @@
+{
+    "name": "nest-rushstack-rig",
+    "version": "1.0.0",
+    "description": "default configs for the rush stack",
+    "license": "MIT",
+    "files": [
+        "profiles"
+    ],
+    "scripts": {
+        "build": ""
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
