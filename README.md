@@ -1,7 +1,11 @@
-# `nest-rushstack-rig`
-
 ## Install
 
+moste likely just:
+```bash
+rush add -m -p --dev nest-rushstack-rig
+```
+
+**you schouldn't do one of these**
 ```
 pnpm install nest-rushstack-rig
 npm install nest-rushstack-rig
