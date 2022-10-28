@@ -1,7 +1,7 @@
 
 a package to make the [rush build-cache](https://rushjs.io/pages/maintainer/build_cache/) work quickly.
 
-first ensure you have setup something like [this](https://rushjs.io/pages/maintainer/build_cache/#enabling-the-local-disk-cache) the follow the steps below.
+first ensure you have setup something like [this](https://rushjs.io/pages/maintainer/build_cache/#enabling-the-local-disk-cache), then follow the steps below.
 
 
 ## Install
