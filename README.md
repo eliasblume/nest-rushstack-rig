@@ -2,7 +2,7 @@
 
 moste likely just:
 ```bash
-rush add -m -p --dev nest-rushstack-rig
+rush add -m --dev -p nest-rushstack-rig
 ```
 
 **you schouldn't do one of these**
